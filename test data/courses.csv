@@ -1,0 +1,6 @@
+CourseCode,Title,Credits,Department,Semester,InstructorID,InstructorName
+"CS101","Introduction to Programming","3","Computer Science","FALL","1","Dr. John Smith"
+"MATH201","Calculus II","4","Mathematics","SPRING","2","Dr. Jane Doe"
+"CS102","Data Structures","3","Computer Science","SPRING","1","Dr. John Smith"
+"PHYS101","Physics I","4","Physics","FALL","3","Dr. Mike Johnson"
+"ENG101","English Composition","3","English","FALL","4","Dr. Sarah Wilson"
